@@ -23,7 +23,7 @@ repository               : "MT-Tong/site-test"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Meilin Tong"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate in Economics"
