@@ -19,7 +19,7 @@ You can find my [CV here](/files/CV.pdf).
 - **Canadian Economics Association Annual Meeting (CEA 2026)**  
   May 28 - 30, 2026
 
-- **20th CIREQ-CIRENA PhD Students' Conference**  
+- **20th CIREQ-CIRANO Ph.D. Students' Conference**  
   May 19 - 20, 2026
 
 ## Contact
