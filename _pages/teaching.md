@@ -54,6 +54,8 @@ author_profile: true
 
 ## Teaching Experience
 
+My teaching experience includes courses in financial economics, macroeconomics, statistics, econometrics, and mathematics.
+
 <div class="teaching-section">
 
   <div class="teaching-institution">
