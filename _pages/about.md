@@ -11,7 +11,7 @@ I am a PhD candidate in Economics at McGill University.
 
 My research interests are in Econometrics, Financial Econometrics, and Time Series Analysis.
 
-You can find my [CV here](/files/CV.pdf).
+You can find my [CV here]({{ base_path }}/files/CV.pdf).
 
 
 ## Upcoming Presentations
