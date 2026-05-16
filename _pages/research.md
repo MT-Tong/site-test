@@ -77,7 +77,7 @@ author_profile: true
 
 <div class="research-page">
 
-## Working Papers
+<h2>Working Papers</h2>
 
 <ol class="paper-list">
 
@@ -117,21 +117,6 @@ author_profile: true
       Revised May 2026
     </div>
 
-    <details class="paper-abstract">
-      <summary>Abstract</summary>
-      <p>
-        We develop a practical framework for stochastic volatility models in which latent log-volatility follows an ARMA$(p,q)$ process, denoted SV$(p,q)$. Allowing for a moving-average component is economically and empirically motivated: volatility shocks often propagate over short horizons, and discretely sampled returns can inherit MA features from higher-frequency or continuous-time volatility dynamics. Despite their relevance, SV models with MA volatility innovations are rarely used in applied work because estimation and implementation become cumbersome beyond the simplest specifications.
-      </p>
-      <p>
-        Our contribution is twofold. First, we derive a reduced-form characterization that transforms SV$(p,q)$ into a standard observable time-series problem. Using the centered log-squared return transformation, we show that the transformed series admits a reduced-form ARMA$(p,m)$ representation, where $m=\max(p,q)$, with an additive measurement-noise component of known variance.
-      </p>
-      <p>
-        Second, we leverage this structure to provide a computationally efficient estimation and model-selection pipeline. We estimate the reduced-form ARMA using fast regression-based methods and then recover the structural SV$(p,q)$ parameters via an admissible backward-mapping step based on matching autocovariances. Our main estimator is a Hannan--Rissanen-type procedure tailored to the reduced form that applies uniformly across orders $(p,q)$.
-      </p>
-      <p>
-        Monte Carlo experiments show that the proposed pipeline yields accurate finite-sample estimates and that the Hannan--Rissanen approach is stable for higher-order specifications. A two-stage order-selection rule reliably identifies the reduced-form order, while nested cases can lead to conservative selection of $q$. An empirical illustration using daily S&amp;P 500 returns selects an SV$(1,1)$ specification.
-      </p>
-    </details>
   </li>
 
   <li class="paper-item">
@@ -145,18 +130,11 @@ author_profile: true
     <div class="paper-status">
       Working paper
     </div>
-
-    <details class="paper-abstract">
-      <summary>Abstract</summary>
-      <p>
-        Central bank announcements generate rapid asset-price movements, but these movements need not represent a single monetary-policy shock. They may combine policy news, information about the economic outlook, and transitory market noise. We develop an event-level framework for measuring and identifying monetary-policy announcement shocks from high-frequency financial data. Instead of collapsing each announcement window into an endpoint surprise, we use the intrawindow price path to construct noisy event-level covariance proxies. We then exploit heteroskedasticity across announcement events: when latent shock volatilities move non-proportionally, changes in covariance shape identify the impact matrix linking structural announcement shocks to asset prices, even under measurement noise. The framework shows how high-frequency announcement data can be used at the event level, where path and volatility information remain available, before being averaged into monthly shock proxies.
-      </p>
-    </details>
   </li>
 
 </ol>
 
-## Conference Proceedings
+<h2>Conference Proceedings</h2>
 
 <ol class="paper-list">
 
@@ -177,7 +155,7 @@ author_profile: true
 
 </ol>
 
-## Work in Progress
+<h2>Work in Progress</h2>
 
 <ol class="paper-list">
 

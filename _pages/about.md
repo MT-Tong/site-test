@@ -22,8 +22,7 @@ You can find my [CV here](/files/CV.pdf).
 - **20th CIREQ-CIRANO Ph.D. Students' Conference**  
   May 19 - 20, 2026
 
-## Contact
 
-Please feel free to contact me by email for questions about my research, teaching, or availability.
+Please feel free to contact me by email at [meilin.tong@mail.mcgill.ca](mailto:meilin.tong@mail.mcgill.ca) for questions about my research, teaching, or availability.
 
 

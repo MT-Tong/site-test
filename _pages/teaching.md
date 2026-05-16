@@ -12,6 +12,20 @@ author_profile: true
   max-width: 780px;
 }
 
+.teaching-intro {
+  margin-bottom: 2em;
+  line-height: 1.55;
+}
+
+.teaching-section-title {
+  font-size: 1.35em;
+  font-weight: 700;
+  margin-top: 1.8em;
+  margin-bottom: 0.8em;
+  padding-bottom: 0.25em;
+  border-bottom: 1px solid #ddd;
+}
+
 .teaching-section {
   margin-bottom: 2.2em;
 }
@@ -29,7 +43,7 @@ author_profile: true
 .course-list {
   list-style: none;
   padding-left: 0;
-  margin-top: 0.4em;
+  margin-top: 0.8em;
 }
 
 .course-item {
@@ -52,9 +66,11 @@ author_profile: true
 
 <div class="teaching-page">
 
-## Teaching Experience
+<div class="teaching-section-title">Teaching Experience</div>
 
-My teaching experience includes courses in financial economics, macroeconomics, statistics, econometrics, and mathematics.
+<p class="teaching-intro">
+My teaching experience includes courses in financial economics, macroeconomics, money and banking, statistics, econometrics, and mathematics.
+</p>
 
 <div class="teaching-section">
 
