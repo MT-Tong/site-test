@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
+
 I am a PhD candidate in Economics at McGill University.
 
 My research interests are in Econometrics, Financial Econometrics, and Time Series Analysis.
 
-You can find my [CV here]({{ base_path }}/files/CV.pdf).
+You can find my <a href="{{ base_path }}/files/CV.pdf">CV here</a>.
 
 
 ## Upcoming Presentations
